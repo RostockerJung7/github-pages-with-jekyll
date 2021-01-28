@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my Homepage
 
-I'm glad you are here. I plan to talk about ...
+Hey Guys, my name is Malte and I use this website for my CIS class in college. 
